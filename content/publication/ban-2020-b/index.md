@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Topological Entropy for Shifts of Finite Type Over $ℤ$ and Tree
+title: Topological Entropy for Shifts of Finite Type Over $\mathbb{Z}$ and Tree
 subtitle: ''
 summary: ''
 authors:
@@ -46,12 +46,12 @@ image:
 projects: []
 publishDate: '2021-07-21T18:50:34.113787Z'
 publication_types:
-- '2'
+- '3'
 abstract: We study the topological entropy of hom tree-shifts and show that, although
   the topological entropy is not conjugacy invariant for tree-shifts in general, it
   remains invariant for hom tree higher block shifts. In doi:10.1016/j.tcs.2018.05.034
   and doi:10.3934/dcds.2020186, Petersen and Salama demonstrated the existence of
-  topological entropy for tree-shifts and $h(mathcalT_X) ≥ h(X)$, where $mathcalT_X$
+  topological entropy for tree-shifts and $h(\mathcal{T}_X) \ge h(X)$, where $\mathcal{T}_X$
   is the hom tree-shift derived from $X$. We characterize a necessary and sufficient
   condition when the equality holds for the case where $X$ is a shift of finite type.
   In addition, two novel phenomena have been revealed for tree-shifts. There is a

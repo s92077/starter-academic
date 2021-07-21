@@ -42,7 +42,7 @@ image:
 projects: []
 publishDate: '2021-07-21T19:12:17.179577Z'
 publication_types:
-- '3'
+- '7'
 abstract: ''
 publication: ''
 ---
