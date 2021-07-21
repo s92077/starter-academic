@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 65
+math: true
 
 title: Publications
 subtitle: Click [here](./publication/) to filter publications.

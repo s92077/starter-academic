@@ -52,7 +52,7 @@ abstract: Motivated from the study of multiple ergodic average, the investigatio
   of multiplicative shift spaces has drawn much of interest among researchers. This
   paper focuses on the relation of topologically mixing properties between multiplicative
   shift spaces and traditional shift spaces. Suppose that $\Omega^(l)$ is the multiplicative
-  subshift derived from the shift space $Ømega$ with given $l > 1$. We show that $\Omega^(l)$
+  subshift derived from the shift space $\Omega$ with given $l > 1$. We show that $\Omega^(l)$
   is (topologically) transitive/mixing if and only if $\Omega$ is extensible/mixing.
   After introducing $l$-directional mixing property, we derive the equivalence between
   $l$-directional mixing property of $\Omega^(l)$ and weakly mixing property of $\Omega$.
