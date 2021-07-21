@@ -18,7 +18,7 @@ abstract: "The studies of shift spaces on a Cayley-trees are sprouting in the re
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-19"
-date_end: "2021-02-20"
+date_end: "2021-02-19"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
