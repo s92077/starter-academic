@@ -26,11 +26,11 @@ featured: false
 draft: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Custom Link
-#   url: http://example.org
+  url: https://ieeexplore.ieee.org/document/8340779
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8340779'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
