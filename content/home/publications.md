@@ -28,6 +28,11 @@ content:
   #  publication_type: ''
   #  author: ''
   #  exclude_featured: true
+  filter_button:
+    - name: Accepted Papers
+      publication_type: '2'
+    - name: Preprints
+      publication_type: '1'
 design:
   # Choose a view for the listings:
   #   1 = List
