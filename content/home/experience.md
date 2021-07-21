@@ -49,15 +49,15 @@ experience:
     date_end: '2017-10-08'
     description: 'Project: Medical Instrumen Technology'
     
-#  - title: Exchange Student
-#    date_start: 'Sep 2018'
-#    date_end: 'Jun 2019'
-#    description: School of Electronics and Computer Science, University of Southampton
-#    
-#  - title: Teaching Assistant
-#    date_start: 'Sep 2019'
-#    date_end: 'Jun 2020'
-#    description: Introduction to Analysis
+  - title: Exchange Student
+    date_start: '2018-09-01'
+    date_end: '2019-06-30'
+    description: School of Electronics and Computer Science, University of Southampton
+    
+  - title: Teaching Assistant
+    date_start: '2019-09-01'
+    date_end: '2020-06-30'
+    description: Introduction to Analysis
 
 design:
   columns: '2'
