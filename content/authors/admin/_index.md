@@ -28,21 +28,16 @@ organizations:
     url: https://www.oulu.fi/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Applied Mathematics
+      institution: National Chiao Tung University
+      year: 2021
+    - course: BSc in Electrical and Computer Engineering
+      institution: National Chiao Tung University
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
 ---
-Yu-Liang Wu is a student of mathematics at University of Oulu. His research interests include dynamical systems, ergodic theory, and multifractal analysis. He is under the supervision of Professor Meng Wu.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a student in mathematics at University of Oulu under the supervision of Professor Meng Wu. My research interests include dynamical systems, ergodic theory, and multifractal analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
