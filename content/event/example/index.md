@@ -1,4 +1,5 @@
 ---
+math: true
 title: On the Topological Entropy of Shift Spaces over Groups
 
 event: 2021 Young Dynamics Day
