@@ -44,6 +44,20 @@ experience:
 #    date_start: '2016-01-01'
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
+  - title: 2017 TMU-MIT (Sana) Hackathon
+    date_start: '2017'
+    date_end: ''
+    description: 'Project: Medical Instrumen Technology'
+    
+  - title: Exchange Student
+    date_start: 'September 2018'
+    date_end: 'June 2019'
+    description: School of Electronics and Computer Science, University of Southampton
+    
+  - title: Teaching Assistant
+    date_start: 'September 2019'
+    date_end: 'June 2020'
+    description: Introduction to Analysis
 
 design:
   columns: '2'
