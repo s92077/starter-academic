@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: [Filter publications](./publication/).
+subtitle: This [Filter publications](./publication/).
 
 content:
   # Page type to display. E.g. post, talk, publication...
