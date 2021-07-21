@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
+subtitle: Quickly discover relevant content by [filtering publications](./publication/).
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 4
 ---
 
 {{% callout note %}}
