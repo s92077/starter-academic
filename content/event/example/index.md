@@ -4,22 +4,22 @@ title: Example Talk
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Hsu Shou-Chlien International Conference Center HC307, Tamkang University
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: My talk on 	2021 NCTS Young Dynamics Day.
+abstract: "The studies of shift spaces on a Cayley-trees are sprouting in the recent years. One reason for this lies in its physical significance such as Ising model on Cayley-trees, on which the investigations of Gibbs measure are conducted. As Gibbs measure for shift spaces on $$ Z^d $$ reaches the maximal entropy, i.e., the topological entropy, it is of our interest to study a generalization of topological entropy on Cayley-trees. Current literatures demonstrate successful attempt to this end on the free groups and free semigroups. In this work, we consider the the topological entropy on a collection of finitely generated semigroups whose Cayley graphs are trees. In particular, this collection includes the free groups. Based on the idea of stem entropy and graph representation introduced in this work, we provide sufficient conditions for the existence of limit in the topological entropy and reveal the coincidence of topological entropy and stem entropy. These results are further supplemented by the algorithms of the numerical calculation of entropy for shifts of finite type."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2021-02-19T09:00:00Z"
+date_end: "2021-02-19T17:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,15 +30,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -60,14 +60,14 @@ projects:
 - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
+#
+# Slides can be added in a few ways:
+#
+# - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+# 
+# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
