@@ -45,8 +45,8 @@ experience:
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
   - title: 2017 TMU-MIT (Sana) Hackathon
-    date_start: '2017-10-6'
-    date_end: '2017-10-8'
+    date_start: '2017-10-06'
+    date_end: '2017-10-08'
     description: 'Project: Medical Instrumen Technology'
     
 #  - title: Exchange Student
